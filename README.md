@@ -94,29 +94,7 @@ nexuschat/
 └── README.md
 ```
 
----
-
-## 📦 Requirements
-
-```txt
-streamlit
-langchain
-langchain-community
-langchain-text-splitters
-langchain-groq
-langchain-huggingface
-langgraph
-faiss-cpu
-pypdf
-python-dotenv
-requests
-sentence-transformers
-tavily-python
-```
-
-> Generate the exact file with `pip freeze > requirements.txt` after installing.
-
----
+------
 
 ## 🛠️ How It Works
 
